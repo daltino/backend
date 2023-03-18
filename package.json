@@ -1,0 +1,32 @@
+{
+  "name": "shipup-backend",
+  "version": "1.0.0",
+  "description": "## Guidelines",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltino/backend.git"
+  },
+  "keywords": [
+    "shipup",
+    "delivery",
+    "courier",
+    "shipping",
+    "date",
+    "carrier"
+  ],
+  "author": "dalton whyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daltino/backend/issues"
+  },
+  "homepage": "https://github.com/daltino/backend#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "fs": "^0.0.1-security"
+  },
+  "type": "module"
+}
